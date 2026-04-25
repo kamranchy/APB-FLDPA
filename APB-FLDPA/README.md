@@ -2,6 +2,12 @@
 
 This repository contains the implementation of **APB-FLDPA**, an enhanced federated learning framework for diabetes prediction. The framework integrates feature attention, adaptive personalized federated learning, differential privacy, blockchain-based audit logging, client reliability scoring, statistical analysis, and publication-ready visualizations.
 
+## Abstract
+Developing robust medical artificial intelligence (AI) requires collaboration across multiple institutions, but strict data protection regulations such as HIPAA and GDPR prevent centralized patient data sharing. Existing federated learning (FL) methods often exhibit 15–30% performance degradation in real-world clinical settings due to data heterogeneity, security threats, and privacy constraints.
+We present APB-FLDPA, a privacy-preserving federated learning framework for secure multi-hospital disease prediction. APB-FLDPA integrates five key innovations: (i) adaptive Byzantine-resilient aggregation using dynamic client trust scoring, (ii) self-attention for automated clinical feature importance, (iii) selective differential privacy applied at the final aggregation stage, (iv) cluster-aware personalization to handle cross-institutional heterogeneity, and (v) a lightweight blockchain module to ensure model integrity.
+Evaluated across five institutions using large-scale Diabetes (183,000 patients) and Thyroid (6,840 patients) datasets, APB-FLDPA achieved 90.8% accuracy for diabetes and 83.8% accuracy for thyroid disease, with minimal performance loss (<0.2%) compared to centralized learning. Statistical tests confirmed significant improvements, and selective differential privacy outperformed conventional methods by 5.6% in accuracy.
+These results demonstrate that APB-FLDPA provides a scalable, high-performance, and privacy-compliant solution for real-world federated medical AI.
+
 ## Key Features
 
 - Centralized deep learning baseline
