@@ -15,6 +15,12 @@ This repository contains the implementation of **APB-FLDPA**, an enhanced federa
 - Statistical significance testing
 - 300 DPI figures for publication
 
+## Architecture Pipeline
+
+
+
+
+
 ## Repository Structure
 
 ```text
