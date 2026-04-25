@@ -16,7 +16,7 @@ This repository contains the implementation of **APB-FLDPA**, an enhanced federa
 - 300 DPI figures for publication
 
 ## Architecture Pipeline
-
+![Architecture]([https://img.shields.io/badge/Architecture-APB--FLDPA-blue](https://github.com/kamranchy/APB-FLDPA/blob/1ce7d39e59a2acc934e92702f8aff7e6b7d735e1/APB-FLDPA/APB-FLDPA%20Architecture.png))
 
 
 
