@@ -119,14 +119,7 @@ APB-FLDPA includes the following components:
 
 If you use this code, please cite the related article:
 
-```bibtex
-@article{mondal2026apbfldpa,
-  title={APB-FLDPA: Adaptive Personalized Blockchain-Federated Learning with Differential Privacy and Attention for Privacy-Preserving Healthcare Analytics},
-  author={Mondal, Proloy Kumar and others},
-  journal={Healthcare Technology Letters},
-  year={2026}
-}
-```
+
 
 ## License
 
